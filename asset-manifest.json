@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5b504d3.css",
+    "main.js": "/static/js/main.a35a8f2f.js",
+    "static/media/background.jpg": "/static/media/background.44d6bc40b668159af10e.jpg",
+    "static/media/DD.png": "/static/media/DD.851ccbf09e0715019010.png",
+    "static/media/paintings.png": "/static/media/paintings.42a05600dbcb5a5b8abd.png",
+    "static/media/page.png": "/static/media/page.8b04468d5ca9a099ea3a.png",
+    "static/media/circle1.png": "/static/media/circle1.193a8db4012160c58643.png",
+    "static/media/marker.png": "/static/media/marker.673b217dd55c00f13a08.png",
+    "static/media/brush2.png": "/static/media/brush2.2a49de004a5f30e78067.png",
+    "static/media/peinture3.jpg": "/static/media/peinture3.5063a6fcda24a04ddceb.jpg",
+    "static/media/peinture4.jpg": "/static/media/peinture4.95887321e09dc5010c41.jpg",
+    "static/media/peinture8.jpg": "/static/media/peinture8.5d11b78c1bf0cfa5662d.jpg",
+    "static/media/peinture7.jpg": "/static/media/peinture7.2b2ff3a18b85761478a8.jpg",
+    "static/media/brush1.png": "/static/media/brush1.1c4623ae281d307313e1.png",
+    "static/media/peinture2.jpg": "/static/media/peinture2.a7600fbaff807e976f39.jpg",
+    "static/media/peinture5.jpg": "/static/media/peinture5.544bcbcebf674e7afc93.jpg",
+    "static/media/peinture6.jpg": "/static/media/peinture6.c7922f5f12b0cc822cba.jpg",
+    "static/media/peinture1.jpg": "/static/media/peinture1.a1ea957866f349d82305.jpg",
+    "static/media/histoire_brush.png": "/static/media/histoire_brush.e9d7ec998e033294fcb6.png",
+    "static/media/gallerie_brush.png": "/static/media/gallerie_brush.b3bc3441059be8660793.png",
+    "static/media/poesie_brush.png": "/static/media/poesie_brush.d5e6c1ce14829ccf3e68.png",
+    "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
+    "index.html": "/index.html",
+    "main.a5b504d3.css.map": "/static/css/main.a5b504d3.css.map",
+    "main.a35a8f2f.js.map": "/static/js/main.a35a8f2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b504d3.css",
+    "static/js/main.a35a8f2f.js"
+  ]
+}
