@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c72293d.css",
-    "main.js": "/static/js/main.9798046a.js",
+    "main.css": "/static/css/main.30896ccd.css",
+    "main.js": "/static/js/main.daac1ece.js",
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
     "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
@@ -64,11 +64,11 @@
     "static/media/poesie_brush.png": "/static/media/poesie_brush.d5e6c1ce14829ccf3e68.png",
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
-    "main.6c72293d.css.map": "/static/css/main.6c72293d.css.map",
-    "main.9798046a.js.map": "/static/js/main.9798046a.js.map"
+    "main.30896ccd.css.map": "/static/css/main.30896ccd.css.map",
+    "main.daac1ece.js.map": "/static/js/main.daac1ece.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c72293d.css",
-    "static/js/main.9798046a.js"
+    "static/css/main.30896ccd.css",
+    "static/js/main.daac1ece.js"
   ]
 }
