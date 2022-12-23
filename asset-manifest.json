@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.655657e3.css",
-    "main.js": "/static/js/main.744f6211.js",
+    "main.css": "/static/css/main.44dda04c.css",
+    "main.js": "/static/js/main.7c389695.js",
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
     "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
@@ -35,7 +35,6 @@
     "static/media/p13.jpg": "/static/media/p13.4a7b625bb017b7022128.jpg",
     "static/media/p23.jpg": "/static/media/p23.36263447e5cb5fec00d8.jpg",
     "static/media/p12.jpg": "/static/media/p12.07790f1879721bad737b.jpg",
-    "static/media/p21.jpg": "/static/media/p21.8e24dbd4158c66ac0ca1.jpg",
     "static/media/p28.jpg": "/static/media/p28.deccf21b7b486cf2c19f.jpg",
     "static/media/p33.jpg": "/static/media/p33.0d531b53a7709ac17894.jpg",
     "static/media/p14.jpg": "/static/media/p14.8644c6f46f4eb56c18dd.jpg",
@@ -67,11 +66,11 @@
     "static/media/poesie_brush.png": "/static/media/poesie_brush.d5e6c1ce14829ccf3e68.png",
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
-    "main.655657e3.css.map": "/static/css/main.655657e3.css.map",
-    "main.744f6211.js.map": "/static/js/main.744f6211.js.map"
+    "main.44dda04c.css.map": "/static/css/main.44dda04c.css.map",
+    "main.7c389695.js.map": "/static/js/main.7c389695.js.map"
   },
   "entrypoints": [
-    "static/css/main.655657e3.css",
-    "static/js/main.744f6211.js"
+    "static/css/main.44dda04c.css",
+    "static/js/main.7c389695.js"
   ]
 }
