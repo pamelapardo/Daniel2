@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.34364de0.css",
-    "main.js": "/static/js/main.94940e57.js",
+    "main.css": "/static/css/main.a1ff0150.css",
+    "main.js": "/static/js/main.c91dcde4.js",
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
     "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
@@ -9,12 +9,13 @@
     "static/media/background.jpg": "/static/media/background.44d6bc40b668159af10e.jpg",
     "static/media/poeme-1.png": "/static/media/poeme-1.9bdb741fb0f7a7d293f7.png",
     "static/media/DD.png": "/static/media/DD.851ccbf09e0715019010.png",
-    "static/media/daniel5.png": "/static/media/daniel5.df95f5f95901a34ae6b6.png",
     "static/media/news2.png": "/static/media/news2.c77392159f1d006d6da9.png",
     "static/media/paintings.png": "/static/media/paintings.42a05600dbcb5a5b8abd.png",
     "static/media/poesie-libre.png": "/static/media/poesie-libre.abc14ff8ed7b112f84b0.png",
     "static/media/circle1.png": "/static/media/circle1.193a8db4012160c58643.png",
     "static/media/papa-poesie.png": "/static/media/papa-poesie.cfb75beff76114feaaed.png",
+    "static/media/spider.png": "/static/media/spider.4088d175122d1be0f06c.png",
+    "static/media/p21.jpg": "/static/media/p21.ec2dd41af90db98b4d37.jpg",
     "static/media/dd6.png": "/static/media/dd6.19bc0b0fb5721f20738f.png",
     "static/media/marker.png": "/static/media/marker.673b217dd55c00f13a08.png",
     "static/media/brush-poesie.png": "/static/media/brush-poesie.15210455930c57126088.png",
@@ -68,11 +69,11 @@
     "static/media/poesie_brush.png": "/static/media/poesie_brush.d5e6c1ce14829ccf3e68.png",
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
-    "main.34364de0.css.map": "/static/css/main.34364de0.css.map",
-    "main.94940e57.js.map": "/static/js/main.94940e57.js.map"
+    "main.a1ff0150.css.map": "/static/css/main.a1ff0150.css.map",
+    "main.c91dcde4.js.map": "/static/js/main.c91dcde4.js.map"
   },
   "entrypoints": [
-    "static/css/main.34364de0.css",
-    "static/js/main.94940e57.js"
+    "static/css/main.a1ff0150.css",
+    "static/js/main.c91dcde4.js"
   ]
 }
