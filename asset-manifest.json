@@ -1,11 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1ff0150.css",
-<<<<<<< HEAD
     "main.js": "/static/js/main.c91dcde4.js",
-=======
-    "main.js": "/static/js/main.66a914e5.js",
->>>>>>> 07dbda3eea1d57fb83746f85fb0e56b7a2230089
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
     "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
@@ -18,11 +14,7 @@
     "static/media/poesie-libre.png": "/static/media/poesie-libre.abc14ff8ed7b112f84b0.png",
     "static/media/circle1.png": "/static/media/circle1.193a8db4012160c58643.png",
     "static/media/papa-poesie.png": "/static/media/papa-poesie.cfb75beff76114feaaed.png",
-<<<<<<< HEAD
     "static/media/spider.png": "/static/media/spider.4088d175122d1be0f06c.png",
-=======
-    "static/media/spider.png": "/static/media/spider.bf1ec57e9f511016edec.png",
->>>>>>> 07dbda3eea1d57fb83746f85fb0e56b7a2230089
     "static/media/p21.jpg": "/static/media/p21.ec2dd41af90db98b4d37.jpg",
     "static/media/dd6.png": "/static/media/dd6.19bc0b0fb5721f20738f.png",
     "static/media/marker.png": "/static/media/marker.673b217dd55c00f13a08.png",
@@ -78,18 +70,10 @@
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
     "main.a1ff0150.css.map": "/static/css/main.a1ff0150.css.map",
-<<<<<<< HEAD
     "main.c91dcde4.js.map": "/static/js/main.c91dcde4.js.map"
   },
   "entrypoints": [
     "static/css/main.a1ff0150.css",
     "static/js/main.c91dcde4.js"
-=======
-    "main.66a914e5.js.map": "/static/js/main.66a914e5.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a1ff0150.css",
-    "static/js/main.66a914e5.js"
->>>>>>> 07dbda3eea1d57fb83746f85fb0e56b7a2230089
   ]
 }
