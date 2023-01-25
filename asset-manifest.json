@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b65f76b0.css",
-    "main.js": "/static/js/main.849e56c3.js",
+    "main.js": "/static/js/main.ec784112.js",
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
     "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
@@ -71,10 +71,10 @@
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
     "main.b65f76b0.css.map": "/static/css/main.b65f76b0.css.map",
-    "main.849e56c3.js.map": "/static/js/main.849e56c3.js.map"
+    "main.ec784112.js.map": "/static/js/main.ec784112.js.map"
   },
   "entrypoints": [
     "static/css/main.b65f76b0.css",
-    "static/js/main.849e56c3.js"
+    "static/js/main.ec784112.js"
   ]
 }
