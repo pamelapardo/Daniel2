@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b65f76b0.css",
-    "main.js": "/static/js/main.ec784112.js",
+    "main.css": "/static/css/main.30592755.css",
+    "main.js": "/static/js/main.5174e72e.js",
     "static/media/daniel2.png": "/static/media/daniel2.3a7737ecaac887c72076.png",
-    "static/media/livre.png": "/static/media/livre.4877147b8268ea3ac4e9.png",
     "static/media/daniel3.jpg": "/static/media/daniel3.6ec7a434776746f70e06.jpg",
     "static/media/dd4.png": "/static/media/dd4.a7882fa69dc951b18ceb.png",
     "static/media/background.jpg": "/static/media/background.44d6bc40b668159af10e.jpg",
@@ -13,6 +12,7 @@
     "static/media/paintings.png": "/static/media/paintings.42a05600dbcb5a5b8abd.png",
     "static/media/poesie-libre.png": "/static/media/poesie-libre.abc14ff8ed7b112f84b0.png",
     "static/media/circle1.png": "/static/media/circle1.193a8db4012160c58643.png",
+    "static/media/livre.jpeg": "/static/media/livre.aa62869e7ad1dce20fe2.jpeg",
     "static/media/spider1.png": "/static/media/spider1.7d25f40dfd2a7e7fa297.png",
     "static/media/papa-poesie.png": "/static/media/papa-poesie.cfb75beff76114feaaed.png",
     "static/media/p21.jpg": "/static/media/p21.ec2dd41af90db98b4d37.jpg",
@@ -70,11 +70,11 @@
     "static/media/poesie_brush.png": "/static/media/poesie_brush.d5e6c1ce14829ccf3e68.png",
     "static/media/home_brush.png": "/static/media/home_brush.72af2cd6d42285c286de.png",
     "index.html": "/index.html",
-    "main.b65f76b0.css.map": "/static/css/main.b65f76b0.css.map",
-    "main.ec784112.js.map": "/static/js/main.ec784112.js.map"
+    "main.30592755.css.map": "/static/css/main.30592755.css.map",
+    "main.5174e72e.js.map": "/static/js/main.5174e72e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b65f76b0.css",
-    "static/js/main.ec784112.js"
+    "static/css/main.30592755.css",
+    "static/js/main.5174e72e.js"
   ]
 }
